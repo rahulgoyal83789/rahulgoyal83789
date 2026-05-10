@@ -1,16 +1,7 @@
 <div align="center">
 
-```ascii
-██████╗  █████╗ ██╗  ██╗██╗   ██╗██╗
-██╔══██╗██╔══██╗██║  ██║██║   ██║██║
-██████╔╝███████║███████║██║   ██║██║
-██╔══██╗██╔══██║██╔══██║██║   ██║██║
-██║  ██║██║  ██║██║  ██║╚██████╔╝███████╗
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
-```
-
-# hey, i'm rahul 👋
-### full stack dev | chess player | 2nd year cse @ bvp delhi
+# Hey, I'm Rahul 👋
+### Full Stack Dev | chess player | 2nd year CSE @ BVP Delhi
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF94&center=true&vCenter=true&width=600&lines=Building+things+that+matter+%F0%9F%9A%80;MERN+Stack+Developer+%F0%9F%94%A5;AI+%2B+Web+%3D+%F0%9F%A4%AF;Currently+cracking+DSA+%F0%9F%A7%A0;Placement+season+loading...+%E2%9A%A1)](https://git.io/typing-svg)
 
@@ -20,7 +11,7 @@
 
 ---
 
-## 🧠 about me
+## 🧠 About Me
 
 ```javascript
 const rahul = {
@@ -36,7 +27,7 @@ const rahul = {
 
 ---
 
-## 🚀 projects that hit different
+## 🚀 Projects that hit different
 
 <table>
 <tr>
@@ -87,7 +78,7 @@ Live weather data by city with dynamic UI based on conditions
 
 ---
 
-## 🛠️ tech stack
+## 🛠️ Tech Stack
 
 **Languages**
 
@@ -133,19 +124,11 @@ Live weather data by city with dynamic UI based on conditions
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
 
 ---
 
-## 📊 github stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulgoyal83789&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulgoyal83789&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
-
-</div>
+## 📊 Github Stats
 
 <div align="center">
 
@@ -155,7 +138,7 @@ Live weather data by city with dynamic UI based on conditions
 
 ---
 
-## 🏆 github trophies
+## 🏆 Github Trophies
 
 <div align="center">
 
@@ -165,7 +148,7 @@ Live weather data by city with dynamic UI based on conditions
 
 ---
 
-## 📈 contribution graph
+## 📈 Contribution Graph
 
 <div align="center">
 
@@ -175,7 +158,7 @@ Live weather data by city with dynamic UI based on conditions
 
 ---
 
-## 🎯 current focus
+## 🎯 Current Focus
 
 ```
 [████████████░░░░░░░░] DSA Practice (LeetCode grind 🔥)
@@ -186,7 +169,7 @@ Live weather data by city with dynamic UI based on conditions
 
 ---
 
-## 🤝 connect with me
+## 🤝 Connect With Me 😜
 
 <div align="center">
 
@@ -202,7 +185,7 @@ Live weather data by city with dynamic UI based on conditions
 
 <div align="center">
 
-### 💬 random dev quote
+### 💬 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
