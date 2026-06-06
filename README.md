@@ -31,7 +31,7 @@ const rahul = {
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧠 BrainDrift
 AI-powered career prep platform — resume parsing, skill gap detection, ATS resume generation via Gemini AI + Puppeteer
@@ -41,7 +41,7 @@ AI-powered career prep platform — resume parsing, skill gap detection, ATS res
 [![Repo](https://img.shields.io/badge/GitHub-BrainDrift-00ff94?style=for-the-badge&logo=github&logoColor=black)](https://github.com/rahulgoyal83789/BrainDrift) [![Live](https://img.shields.io/badge/Live-Demo-ff6b6b?style=for-the-badge&logo=vercel&logoColor=white)](https://braindrift.vercel.app/)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🏠 Nestique
 Airbnb-inspired full stack rental platform with interactive maps, cloud image uploads and role-based auth
@@ -53,22 +53,26 @@ Airbnb-inspired full stack rental platform with interactive maps, cloud image up
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ⚡ MergeConflict
-Real-time collaborative code editor powered by Yjs CRDTs and Monaco Editor — multiple users, zero conflicts, persistent sessions
+Real-time collaborative code editor — multiple users, zero conflicts, persistent sessions
 
 **Stack:** React · Node · Socket.IO · Yjs · Monaco Editor · LevelDB · Docker
 
 [![Repo](https://img.shields.io/badge/GitHub-MergeConflict-00ff94?style=for-the-badge&logo=github&logoColor=black)](https://github.com/rahulgoyal83789/MergeConflict/) [![Live](https://img.shields.io/badge/Live-Demo-ff6b6b?style=for-the-badge&logo=render&logoColor=white)](https://mergeconflict-sf3u.onrender.com/)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌤️ CloudJar
 Live weather data by city with dynamic UI based on conditions
+<br/>
+<br/>
 
 **Stack:** React · Vite · Material UI · OpenWeatherMap API
+<br/>
+<br/>
 
 [![Repo](https://img.shields.io/badge/GitHub-CloudJar-00ff94?style=for-the-badge&logo=github&logoColor=black)](https://github.com/rahulgoyal83789/Basic-weather-App) [![Live](https://img.shields.io/badge/Live-Demo-ff6b6b?style=for-the-badge&logo=vercel&logoColor=white)](https://cloudjar.vercel.app/)
 
