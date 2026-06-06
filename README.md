@@ -38,7 +38,7 @@ AI-powered career prep platform — resume parsing, skill gap detection, ATS res
 
 **Stack:** React · Node · MongoDB · JWT · Gemini AI · Puppeteer · Zod · SCSS
 
-[![Repo](https://img.shields.io/badge/GitHub-BrainDrift-00ff94?style=for-the-badge&logo=github&logoColor=black)](https://github.com/rahulgoyal83789/BrainDrift)
+[![Repo](https://img.shields.io/badge/GitHub-BrainDrift-00ff94?style=for-the-badge&logo=github&logoColor=black)](https://github.com/rahulgoyal83789/BrainDrift) [![Live](https://img.shields.io/badge/Live-Demo-ff6b6b?style=for-the-badge&logo=vercel&logoColor=white)](https://braindrift.vercel.app/)
 
 </td>
 <td width="50%">
@@ -56,21 +56,21 @@ Airbnb-inspired full stack rental platform with interactive maps, cloud image up
 <td width="50%">
 
 ### ⚡ MergeConflict
-Real-time collaborative code editor — because coding alone is boring
+Real-time collaborative code editor powered by Yjs CRDTs and Monaco Editor — multiple users, zero conflicts, persistent sessions
 
-**Stack:** React · Node · Socket.io · Yjs · Monaco Editor · Docker · Redis
+**Stack:** React · Node · Socket.IO · Yjs · Monaco Editor · LevelDB · Docker
 
-[![Repo](https://img.shields.io/badge/GitHub-MergeConflict-00ff94?style=for-the-badge&logo=github&logoColor=black)](https://github.com/rahulgoyal83789/MergeConflict/)
+[![Repo](https://img.shields.io/badge/GitHub-MergeConflict-00ff94?style=for-the-badge&logo=github&logoColor=black)](https://github.com/rahulgoyal83789/MergeConflict/) [![Live](https://img.shields.io/badge/Live-Demo-ff6b6b?style=for-the-badge&logo=render&logoColor=white)](https://mergeconflict-sf3u.onrender.com/)
 
 </td>
 <td width="50%">
 
-### 🌤️ Weather App
+### 🌤️ CloudJar
 Live weather data by city with dynamic UI based on conditions
 
 **Stack:** React · Vite · Material UI · OpenWeatherMap API
 
-[![Repo](https://img.shields.io/badge/GitHub-WeatherApp-00ff94?style=for-the-badge&logo=github&logoColor=black)](https://github.com/rahulgoyal83789/Basic-weather-App) [![Live](https://img.shields.io/badge/Live-Demo-ff6b6b?style=for-the-badge&logo=vercel&logoColor=white)](https://basic-weather-app-ten.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-CloudJar-00ff94?style=for-the-badge&logo=github&logoColor=black)](https://github.com/rahulgoyal83789/Basic-weather-App) [![Live](https://img.shields.io/badge/Live-Demo-ff6b6b?style=for-the-badge&logo=vercel&logoColor=white)](https://cloudjar.vercel.app/)
 
 </td>
 </tr>
@@ -125,26 +125,6 @@ Live weather data by city with dynamic UI based on conditions
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
-
----
-
-## 📊 Github Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=rahulgoyal83789&theme=chartreuse-dark&hide_border=true&background=0D1117)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 Github Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rahulgoyal83789&theme=matrix&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
