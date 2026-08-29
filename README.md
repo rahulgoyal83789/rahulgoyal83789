@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey, I'm Rahul 👋
-### Full Stack Dev | chess player | 2nd year CSE @ BVP Delhi
+### Full Stack Dev | chess player | 2nd year CSE @ BVCOE Delhi
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF94&center=true&vCenter=true&width=600&lines=Building+things+that+matter+%F0%9F%9A%80;MERN+Stack+Developer+%F0%9F%94%A5;AI+%2B+Web+%3D+%F0%9F%A4%AF;Currently+cracking+DSA+%F0%9F%A7%A0;Placement+season+loading...+%E2%9A%A1)](https://git.io/typing-svg)
 
@@ -75,6 +75,29 @@ Live weather data by city with dynamic UI based on conditions
 <br/>
 
 [![Repo](https://img.shields.io/badge/GitHub-CloudJar-00ff94?style=for-the-badge&logo=github&logoColor=black)](https://github.com/rahulgoyal83789/Basic-weather-App) [![Live](https://img.shields.io/badge/Live-Demo-ff6b6b?style=for-the-badge&logo=vercel&logoColor=white)](https://cloudjar.vercel.app/)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 Collaborative Projects
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### 🎓 CampusConnect
+A campus marketplace app for students to buy/sell items within their college network — image-based listings, JWT auth, and a cork-board style UI.
+
+**My role:** Frontend Developer — built the full React app: 6 pages (auth, product feed, sell flow, my-listings), a reusable component library (Navbar, Pagination, ImageDropInput, etc.), API client layer, and form validation, styled with Tailwind CSS.
+
+**Full stack:** FastAPI · PostgreSQL · SQLAlchemy · Alembic · React · Vite · Tailwind CSS · Cloudinary
+
+**Built with:** [@madhur2284](https://github.com/madhur2284) (backend)
+
+[![Repo](https://img.shields.io/badge/GitHub-CampusConnect-00ff94?style=for-the-badge&logo=github&logoColor=black)](https://github.com/madhur2284/CampusConnect) [![Live](https://img.shields.io/badge/Live-Demo-ff6b6b?style=for-the-badge&logo=vercel&logoColor=white)](https://campus-connect-lemon-seven.vercel.app)
 
 </td>
 </tr>
