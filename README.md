@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey, I'm Rahul 👋
-### Full Stack Dev | chess player | 2nd year CSE @ BVCOE Delhi
+### Full Stack Dev | chess player | 3rd year CSE @ BVCOE Delhi
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF94&center=true&vCenter=true&width=600&lines=Building+things+that+matter+%F0%9F%9A%80;MERN+Stack+Developer+%F0%9F%94%A5;AI+%2B+Web+%3D+%F0%9F%A4%AF;Currently+cracking+DSA+%F0%9F%A7%A0;Placement+season+loading...+%E2%9A%A1)](https://git.io/typing-svg)
 
@@ -17,7 +17,7 @@
 const rahul = {
   location: "Delhi, India 🇮🇳",
   college: "Bharati Vidyapeeth's College of Engineering, New Delhi",
-  year: "2nd Year B.Tech CSE",
+  year: "3rd Year B.Tech CSE",
   currentlyDoing: ["Cracking DSA 🧩", "Building Projects 🏗️", "Preparing for Placements 🎯"],
   hobbies: ["Chess ♟️", "Badminton 🏸", "Football ⚽", "Reading Tech Blogs 📖"],
   funFact: "I name my projects like startups — Nestique, BrainDrift, MergeConflict 💀",
