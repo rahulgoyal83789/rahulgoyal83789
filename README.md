@@ -159,7 +159,7 @@ A campus marketplace app for students to buy/sell items within their college net
 
 <div align="center">
 
-[![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulgoyal83789&bg_color=0d1117&color=00ff94&line=00ff94&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rahul's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rahulgoyal83789&bg_color=0d1117&color=00ff94&line=00ff94&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
