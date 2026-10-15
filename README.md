@@ -155,6 +155,19 @@ A campus marketplace app for students to buy/sell items within their college net
 
 ---
 
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahulgoyal83789/rahulgoyal83789/output/github-snake-dark.svg" />
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/rahulgoyal83789/rahulgoyal83789/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 ## 📈 Github Stats
 
 <div align="center">
