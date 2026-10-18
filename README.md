@@ -74,7 +74,7 @@ Live weather data by city with dynamic UI based on conditions
 <br/>
 <br/>
 
-[![Repo](https://img.shields.io/badge/GitHub-CloudJar-00ff94?style=for-the-badge&logo=github&logoColor=black)](https://github.com/rahulgoyal83789/Basic-weather-App) [![Live](https://img.shields.io/badge/Live-Demo-ff6b6b?style=for-the-badge&logo=vercel&logoColor=white)](https://cloudjar.vercel.app/)
+[![Repo](https://img.shields.io/badge/GitHub-CloudJar-00ff94?style=for-the-badge&logo=github&logoColor=black)](https://github.com/rahulgoyal83789/CloudJar) [![Live](https://img.shields.io/badge/Live-Demo-ff6b6b?style=for-the-badge&logo=vercel&logoColor=white)](https://cloudjar.vercel.app/)
 
 </td>
 </tr>
