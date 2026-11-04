@@ -155,25 +155,41 @@ A campus marketplace app for students to buy/sell items within their college net
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 GitHub Activity
 
 <div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=rahulgoyal83789&theme=dark&background=0d1117&ring=00ff94&fire=00ff94&currStreakLabel=00ff94&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=rahulgoyal83789&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff94&icon_color=00ff94&hide_border=true&hide=prs,contribs&hide_rank=true" height="170" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/rahulgoyal83789/rahulgoyal83789/languages-output/languages.svg" alt="top languages" />
+
+<br/><br/>
+
+<img alt="activity graph" src="https://raw.githubusercontent.com/rahulgoyal83789/rahulgoyal83789/activity-graph-output/activity-graph.svg" width="100%" />
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahulgoyal83789/rahulgoyal83789/output/github-snake-dark.svg" />
   <img alt="snake contribution graph" src="https://raw.githubusercontent.com/rahulgoyal83789/rahulgoyal83789/output/github-snake.svg" />
 </picture>
 
-</div>
+<br/><br/>
 
----
+<details>
+<summary>👾 Click for the Pac-Man version</summary>
+<br/>
 
-## 📈 Github Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahulgoyal83789/rahulgoyal83789/pacman-output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahulgoyal83789/rahulgoyal83789/pacman-output/pacman-contribution-graph.svg" />
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rahulgoyal83789/rahulgoyal83789/pacman-output/pacman-contribution-graph.svg" />
+</picture>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=rahulgoyal83789&theme=dark&background=0d1117&ring=00ff94&fire=00ff94&currStreakLabel=00ff94&hide_border=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api?username=rahulgoyal83789&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff94&icon_color=00ff94&hide_border=true&hide=prs,contribs&hide_rank=true" height="170" />
+</details>
 
 </div>
 
